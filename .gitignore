@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# 忽略idea所有生成的.iml文件
+*.iml
+
+*.classpath
+.settings/
+*.project
+.idea
+target
+.project
+.classpath
+.settings/
+bin/
